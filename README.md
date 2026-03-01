@@ -113,4 +113,4 @@ cat sweep_results.txt
 
 - **Access control is a security tool in itself:** Restricting who can execute a sensitive script like a network sweep is just as important as writing the script correctly. The wrong person running it could cause serious issues in a real environment(an observation that carries over from Lab 1😄).
 
-- **Real-World Application:** This lab mirrors exactly what a cybersecurity analyst would do after a network intrusion — sweep the network, identify active devices, and compare against an inventory list to find unauthorized devices.
+- **Real-World Application:** This lab mirrors exactly what a cybersecurity analyst would do after a network intrusionL: sweep the network, identify active devices, and compare against an inventory list to find unauthorized devices.
